@@ -1,4 +1,6 @@
-CALCULADORA DE SISTEMA LINEAR — MÉTODO DE ELIMINAÇÃO DE GAUSS
+CALCULADORA DE SISTEMA LINEAR — ELIMINAÇÃO DE GAUSS
+=================================================================
+
 
 📘 DESCRIÇÃO
 -------------------------------------------------------------------------------
